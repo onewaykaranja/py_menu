@@ -1,5 +1,4 @@
 
-
 def calculate_price(typeoffroyo, froyosize):
     totalprice = 0
     order = []

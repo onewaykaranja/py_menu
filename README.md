@@ -1,1 +1,1 @@
-A simple CLI menu in python
+A simple froyo CLI menu in python
